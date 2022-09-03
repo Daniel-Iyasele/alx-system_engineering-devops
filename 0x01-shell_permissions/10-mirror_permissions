@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod rwx --reference=olleh hello
+sudo chmod rwx --reference=hello olleh
